@@ -1,0 +1,11 @@
+{
+  "name": "polyathlon-app",
+  "version": "1.0.0",
+  "description": "Система организации соревнований по полиатлону",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {}
+}

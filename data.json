@@ -1,0 +1,23 @@
+{
+  "participants": [],
+  "results": [],
+  "disciplines": [
+    {
+      "id": 1,
+      "name": "Бег 100 м",
+      "code": "running-100m",
+      "description": "Спринтерский бег на 100 метров",
+      "measurement_unit": "секунды",
+      "scoring_type": "time"
+    }
+  ],
+  "teams": [],
+  "official_documents": [],
+  "lastId": {
+    "participants": 0,
+    "results": 0,
+    "disciplines": 5,
+    "teams": 0,
+    "official_documents": 0
+  }
+}
